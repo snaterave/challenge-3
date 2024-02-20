@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card{
+    @apply w-full pb-8 pt-8 flex flex-col items-center justify-center lg:w-1/4 md:w-2/4 bg-neutral-dark rounded-3xl;
+    /* Primer div */
+    div:nth-child(1){
+        @apply flex flex-col items-center;
+    }
+
+    /* Segundo div */
+    div:nth-child(2){
+        @apply flex flex-col  space-y-8 text-center w-4/5;
+        a{
+            @apply text-white font-semibold bg-neutral-grey rounded-md p-3 text-paragraph pt-5 pb-5 hover:bg-primary hover:text-black;
+        }
+
+    }
+}
