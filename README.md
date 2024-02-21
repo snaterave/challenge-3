@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component
+# Frontend Mentor - Social links profile
 
 This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ).
 ## Table of contents
@@ -16,10 +16,10 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### The challenge
 
-This blog preview card project, I tackled the challenge of crafting a visually appealing and functionally preview card using TAILWINDCSS, at the same time, adapting this to a responsive desing using the fundaments of first mobile design.  This challenge allowed me to explore fundamental concepts of design and layout, while also strengthening my TAILWINDCSS and CSS skills within a practical context.
+This Social links profile project, I tackled the challenge of crafting a visually appealing and functionally preview card using TAILWINDCSS, at the same time, adapting this to a responsive desing using the fundaments of first mobile design.  This challenge allowed me to explore fundamental concepts of design and layout, while also strengthening my TAILWINDCSS and CSS skills within a practical context.
 ### Screenshot
 
-![](./desktop-design.jpg)
+![](./destkop-design.jpg)
 
 ### Install
 - Download the files.
@@ -33,8 +33,8 @@ This blog preview card project, I tackled the challenge of crafting a visually a
 
 ### Links
 
-- Github Repository: [Click here](https://github.com/snaterave/challenge-2)
-- Live Site URL: [Click here](https://65c2e4eb5cd9d51b594e94c9--strong-pixie-c1bcb6.netlify.app/)
+- Github Repository: [Click here](https://github.com/snaterave/challenge-3)
+- Live Site URL: [Click here](https://65d53c6b2ba2101e9ca08ebd--superb-clafoutis-dd8ace.netlify.app/)
 
 
 
